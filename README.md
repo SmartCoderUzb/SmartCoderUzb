@@ -28,19 +28,6 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 
 ---
 
-### 🌐 Connect With Me  
-
-<p align="center">  
-  <a href="https://t.me/coder_pro" target="_blank">  
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  
-  </a>
-  <a href="https://instagram.com/fayzullo_asqarov" target="_blank">  
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
-  </a>  
-</p>  
-
----
-
 ### 🚀 What I'm Working On  
 
 - 🌱 **Learning:** Advancing my **ethical hacking** expertise.  
@@ -62,4 +49,16 @@ When I’m not coding, I’m probably gaming 🎮.
 
 <p align="center">  
   <b>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</b>  
+</p>  
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">  
+  <a href="https://t.me/coder_pro" target="_blank">  
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  
+  </a>
+  <a href="https://instagram.com/fayzullo_asqarov" target="_blank">  
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
+  </a>  
 </p>  
