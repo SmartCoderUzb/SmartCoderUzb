@@ -54,9 +54,9 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 
 <div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=newjasjanpython&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="newjasjanpython" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SmartCoderUzb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="SmartCoderUzb" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newjasjanpython&show_icons=true&theme=tokyonight&layout=pie&hide_border=true&count_private=true" alt="Most Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartCoderUzb&show_icons=true&theme=tokyonight&layout=pie&hide_border=true&count_private=true" alt="Most Used Languages" />
 
 <div/>
   
