@@ -12,10 +12,7 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 
 🔑 **What I Do:**  
 - 🏫 Founder of **IT HUB Academy** – shaping the next generation of IT experts.  
-- 🎥 Content Creator on **YouTube**, **Instagram**, and **Telegram**.  
 - 🛡️ Diving deep into **cybersecurity** for a safer tech ecosystem.  
-- 💡 Building scalable web apps with **Django** and modern tools.  
-
 ---
 
 ### 🛠 Tech Stack  
