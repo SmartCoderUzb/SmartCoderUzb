@@ -31,13 +31,10 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 ### 🌐 Connect With Me  
 
 <p align="center">  
-  <a href="https://t.me/DonishmandlarOvozi" target="_blank">  
+  <a href="https://t.me/coder_pro" target="_blank">  
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  
-  </a>  
-  <a href="#" target="_blank">  
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />  
-  </a>  
-  <a href="#" target="_blank">  
+  </a>
+  <a href="https://instagram.com/fayzullo_asqarov" target="_blank">  
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a>  
 </p>  
