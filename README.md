@@ -21,13 +21,10 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 ### 🛠 Tech Stack  
 
 #### 👨‍💻 **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 
 #### ⚙️ **Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![Pyrogram](https://img.shields.io/badge/Pyrogram-1C1E24?style=flat-square&logo=telegram&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)    ![Pyrogram](https://img.shields.io/badge/Pyrogram-1C1E24?style=flat-square&logo=telegram&logoColor=white)    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)    ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)  
 
 ---
 
