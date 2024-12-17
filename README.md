@@ -21,10 +21,13 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 ### 🛠 Tech Stack  
 
 #### 👨‍💻 **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)      ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)      ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 
-#### ⚙️ **Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)    ![Pyrogram](https://img.shields.io/badge/Pyrogram-1C1E24?style=flat-square&logo=telegram&logoColor=white)    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)    ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)  
+#### ⚙️ **Frameworks & Libraries:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)      ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)      ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)      ![Pyrogram](https://img.shields.io/badge/Pyrogram-1C1E24?style=flat-square&logo=telegram&logoColor=white)      ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)      ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)      ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+
+#### 🗄️ **Databases:**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=microsoft-sql-server&logoColor=white)      ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA4245?style=flat-square&logo=data:image/svg+xml;base64&logoColor=white)      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)      ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
 
 ---
 
