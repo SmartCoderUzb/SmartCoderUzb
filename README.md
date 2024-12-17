@@ -50,6 +50,7 @@ When I’m not coding, I’m probably gaming 🎮.
 <p align="center">  
   <b>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</b>  
 </p>  
+
 ---
 
 ### 🌐 Connect With Me  
