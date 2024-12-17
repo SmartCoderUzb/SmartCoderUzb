@@ -38,7 +38,7 @@ Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethi
 
 <div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SmartCoderUzb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="SmartCoderUzb" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SmartCoderUzb&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="SmartCoderUzb"/>
 <div/>
   
 ### ✨ Fun Fact  
