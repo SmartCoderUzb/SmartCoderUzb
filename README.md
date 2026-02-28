@@ -1,65 +1,87 @@
-<h1 align="center">👨‍💻 Fayzullo Asqarov</h1>  
+## 🏫 My Academy
 
-<p align="center">  
-  <b>Software Developer | Educator | Ethical Hacker | Content Creator</b>  
-</p>  
+🎓 Founder of **IT HUB Academy**
 
----
+At IT HUB, I help students go from **zero to professional developer** by teaching:
 
-### 🌟 About Me  
+- Programming fundamentals
+- Real-world projects
+- Problem-solving mindset
+- Cybersecurity awareness
 
-Hi there! 👋 I'm Fayzullo Asqarov, a passionate **software developer**, **ethical hacker**, and **mentor**. My mission is to inspire, teach, and create impactful tech solutions.  
-
-🔑 **What I Do:**  
-- 🏫 Founder of **IT HUB Academy** – shaping the next generation of IT experts.  
-- 🛡️ Diving deep into **cybersecurity** for a safer tech ecosystem.  
----
-
-### 🛠 Tech Stack  
-
-#### 👨‍💻 **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)      ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)      ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-
-#### ⚙️ **Frameworks & Libraries:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)      ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)      ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)      ![Pyrogram](https://img.shields.io/badge/Pyrogram-1C1E24?style=flat-square&logo=telegram&logoColor=white)      ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)      ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)      ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-
-#### 🗄️ **Databases:**  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=microsoft-sql-server&logoColor=white)      ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA4245?style=flat-square&logo=data:image/svg+xml;base64&logoColor=white)      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)      ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
+> 🚀 My mission: Build the strongest young IT community in Uzbekistan.
 
 ---
 
-### 🚀 What I'm Working On  
+## 🧪 Featured Projects
 
-- 🌱 **Learning:** Advancing my **ethical hacking** expertise.  
-- 📚 **Teaching:** Expanding **IT HUB Academy** and empowering students.  
-- 🛠 **Building:** Tools and web apps to improve online user experiences.  
+🔹 **Secure Web Systems**  
+Building web apps with strong authentication & protection layers.
 
----
+🔹 **Telegram Automation Bots**  
+Creating smart bots using Aiogram & Pyrogram for real-world use.
 
-<div>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SmartCoderUzb&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="SmartCoderUzb"/>
-<div/>
-  
-### ✨ Fun Fact  
-
-When I’m not coding, I’m probably gaming 🎮.
+🔹 **AI & Computer Vision Tools**  
+Exploring OpenCV to solve real-life problems using vision technology.
 
 ---
 
-<p align="center">  
-  <b>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</b>  
-</p>  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmartCoderUzb&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmartCoderUzb&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🌐 Connect With Me  
+## 🎯 2026 Goals
 
-<p align="center">  
-  <a href="https://t.me/coder_pro" target="_blank">  
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  
+- 🔐 Become an advanced cybersecurity specialist  
+- 🏫 Expand IT HUB Academy to 1000+ students  
+- 🌍 Launch open-source projects for global developers  
+- 📚 Publish structured programming courses  
+
+---
+
+## 🎮 Outside of Code
+
+When I'm not coding, you’ll find me:
+
+🎮 Gaming  
+📚 Reading about tech & business  
+🎥 Creating content for developers  
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always open to:
+
+- Open-source collaboration  
+- Teaching opportunities  
+- Startup & product development  
+- Cybersecurity projects  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/coder_pro">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/fayzullo_asqarov" target="_blank">  
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
-  </a>  
-</p>  
+  <a href="https://instagram.com/fayzullo_asqarov">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💬 "Code is not just syntax — it's the power to change lives."</b>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider following and supporting!
+</p>
